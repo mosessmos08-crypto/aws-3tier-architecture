@@ -2,7 +2,7 @@ AWS 3-Tier Architecture Deployment
 
 📌 Overview
 
-This project demonstrates a basic 3-tier architecture on AWS with high availability principles using core cloud services.
+This project demonstrates a basic 3-tier architecture on AWS using core cloud services with a focus on scalability and high availability.
 
 ---
 
@@ -50,7 +50,6 @@ Target Group / Load Balancer
 Application Output
 
 "App" (screenshots/app-output-1.png)
-"App" (screenshots/app-output-2.png)
 
 Database (RDS)
 
@@ -62,4 +61,4 @@ Database (RDS)
 
 - Understood how load balancing distributes traffic
 - Learned importance of private subnets for databases
-- Gained hands-on experience in designing basic high availability architecture
+- Gained hands-on experience in designing a basic high availability architecture
