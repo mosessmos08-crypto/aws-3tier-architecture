@@ -27,7 +27,7 @@ Screenshots
 
 - EC2 Instances → screenshots/ec2-instances.png
 - Target Group → screenshots/target-group.png
-- Application Output → screenshots/app-output-1.png
+- Application Output → screenshots/app-output-1.png,app-output-1.png
 - Database → screenshots/database.png
 
 Key Learnings
